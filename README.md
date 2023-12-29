@@ -20,9 +20,9 @@
 <li> <a href="https://github.com/utkarshcse2026">Visit here for more !!</a> </li>
 
 &nbsp;
-<h3>📡</g-emoji> Get in Touch :</i></b></h3>
+<h3></g-emoji> Get in Touch 📡 :</i></b></h3>
 <a href="https://www.instagram.com/utkarshaggarwalofficial" rel="nofollow"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/instagram.png" style="max-width: 100%;"></a>
-<li><i>📫 How to reach me utkarshaggarwalcse@gmail.com</i></li>
+<li> 📧 utkarshaggarwalcse@gmail.com </li>
 </li></article>
   </div>
 </div>
