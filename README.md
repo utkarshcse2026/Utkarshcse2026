@@ -6,7 +6,7 @@
         <a href="https://github.com/utkarshcse2026" class="no-underline Link--primary">UtkarshAggarwal</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 
-</path></svg></a><b><i>👋 Hi, I’m Utkarsh Aggarwal</g-emoji></i></b></h2>
+<h2></path></svg></a><b><i>👋 Hi, I’m Utkarsh Aggarwal</g-emoji></i></b></h2>
 <h3></path></svg></a><b><i>🤠</g-emoji> About me :</i></b></h3>
 <li> 😇</g-emoji> <i>Founder Of CyberWarriorsClub</i></li>
 <li> 🤐</g-emoji> <i>Every Expert Was Once A Beginner</i></li>
@@ -15,12 +15,12 @@
 <li><i>💞️ I’m looking to collaborate on Web2 & DBMS development</i></li>
 
 
-</path></svg></a><b><i><g-emoji class="g-emoji" alias="skull_and_crossbones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png">☠</g-emoji>Sample Works :</i></b></h3>
+<h3></path></svg></a><b><i><g-emoji class="g-emoji" alias="skull_and_crossbones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png">☠</g-emoji>Sample Works :</i></b></h3>
 <li> <a href="https://utkarshcse2026.github.io/tripese.com/"> Tripese.com (Travel Booking Platform) </a> </li>
 <li> <a href="https://github.com/utkarshcse2026">Visit here for more !!</a> </li>
 
-
-📡</g-emoji> Get in Touch :</i></b></h3>
+&nbsp;
+<h3>📡</g-emoji> Get in Touch :</i></b></h3>
 <a href="https://www.instagram.com/utkarshaggarwalofficial" rel="nofollow"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/instagram.png" style="max-width: 100%;"></a>
 <li><i>📫 How to reach me utkarshaggarwalcse@gmail.com</i></li>
 </li></article>
