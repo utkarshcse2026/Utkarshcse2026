@@ -1,3 +1,23 @@
+<img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="370" height="300" align="right"/>
+ <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="left">
+ <h1> Hello There </h1>
+  
+### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
+- 🔥 Building catchy designs for apps of the future
+- 🎯 On my way to become a Full-Stack developer!
+- 📝 Avid, enthusiastic writer in both creative and technical fields.
+- 🤤 Loves correcting documentations, Tailwind CSS... and videogames ofcourse!
+- 👨🏽‍💻 Part time Freelancer!
+### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
+<div id="badges>
+  <a href="https://www.linkedin.com/in/ishaan2053 width="15px">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>                                                                                                                           
+  <a href="https://Twitter.com/@Ishaan2053">
+  <img src="https://img.shields.io/badge/Ishaan2053-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>                                                                                                                         
+  </div>
+
 <div class="position-relative">   
   <div class="Box mt-4">
   <div class="Box-body p-4">
