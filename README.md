@@ -3,13 +3,12 @@
  <h1> Hello There </h1>
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
+-😇Founder Of CyberWarriorsClub
 - 🔥 Building catchy designs for apps of the future
 - 🎯 On my way to become a Full-Stack developer!
 - 📝 Avid, enthusiastic writer in both creative and technical fields.
 - 🤤 Loves correcting documentations, Tailwind CSS... and videogames ofcourse!
 - 👨🏽‍💻 Part time Freelancer!
-- 😇Founder Of CyberWarriorsClub
-- 🤐Every Expert Was Once A Beginner
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ReactJS , Python
 - 💞️ I’m looking to collaborate on Web2 & DBMS development
