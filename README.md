@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning ReactJS , Python
 - 💞️ I’m looking to collaborate on Web2 & DBMS development
 
- 
+ ---
 
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
@@ -26,7 +26,7 @@
   </a>                                                                                                                         
   </div>
 
-
+---
 
 
 <h3></path></svg></a><b><i><g-emoji class="g-emoji" alias="skull_and_crossbones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png">☠</g-emoji>Sample Works :</i></b></h3>
