@@ -30,22 +30,18 @@
 ### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">Tools of My Trade:                                             
 | Category           | Tools|
 | ------------------ | --------------------------------------|
-| Languages          |![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)                                                                                 ![Python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Languages          |![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)                                                                                 ![Python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | Frameworks         | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)|
-| Databases          | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-947800?style=for-the-badge&logo=firebase&logoColor=)
+| Databases          | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-947800?style=for-the-badge&logo=firebase&logoColor=)
 | Cloud Platforms |  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)|
-| Hosting/Deployments   | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| Hosting/Deployments   | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) |
 | Version Control    | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)|
 | Payments   | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) |
-| CMS & Headless CMS   | ![Sanity.io](https://img.shields.io/badge/Sanity.io-ff5656?style=for-the-badge&logo=sanity&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-008CDD?style=for-the-badge&logo=wordpress&logoColor=white)
+| CMS & Headless CMS   |  ![WordPress](https://img.shields.io/badge/Wordpress-008CDD?style=for-the-badge&logo=wordpress&logoColor=white)
 | Other tools       | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F43C37?style=for-the-badge&logo=figma&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
-<h3></path></svg></a><b><i><g-emoji class="g-emoji" alias="skull_and_crossbones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png">☠</g-emoji>Sample Works :</i></b></h3>
-<li> <a href="https://utkarshcse2026.github.io/tripese.com/"> Tripese.com (Travel Booking Platform) </a> </li>
-<li> <a href="https://github.com/utkarshcse2026">Visit here for more !!</a> </li>
 
-&nbsp;
 <h3></g-emoji> Get in Touch 📡 :</i></b></h3>
 <a href="https://www.instagram.com/utkarshaggarwalofficial" rel="nofollow"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/instagram.png" style="max-width: 100%;"></a>
 <li> 📧 utkarshaggarwalcse@gmail.com </li>
