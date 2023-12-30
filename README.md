@@ -18,11 +18,11 @@
 
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
-  <a href="https://www.linkedin.com/in/utkarshcse26 width="15px">
+  <a href="https://www.linkedin.com/in/cyberspacecommunity width="15px">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>                                                                                                                           
   <a href="https://Twitter.com/@utkarsh12236">
-  <img src="https://img.shields.io/badge/Ishaan2053-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>                                                                                                                         
   </div>
 
