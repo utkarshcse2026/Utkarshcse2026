@@ -8,6 +8,12 @@
 - 📝 Avid, enthusiastic writer in both creative and technical fields.
 - 🤤 Loves correcting documentations, Tailwind CSS... and videogames ofcourse!
 - 👨🏽‍💻 Part time Freelancer!
+- <h3></path></svg></a><b><i>🤠</g-emoji> About me :</i></b></h3>
+<li> 😇</g-emoji> <i>Founder Of CyberWarriorsClub</i></li>
+<li> 🤐</g-emoji> <i>Every Expert Was Once A Beginner</i></li>
+<li><i>👀 I’m interested in coding</i></li>
+<li><i>🌱 I’m currently learning ReactJS , Python</i></li>
+<li><i>💞️ I’m looking to collaborate on Web2 & DBMS development</i></li>
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
   <a href="https://www.linkedin.com/in/utkarshcse26 width="15px">
@@ -23,16 +29,10 @@
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
-        <a href="https://github.com/utkarshcse2026" class="no-underline Link--primary">UtkarshAggarwal</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 
 <h2></path></svg></a><b><i>👋 Hi, I’m Utkarsh Aggarwal</g-emoji></i></b></h2>
-<h3></path></svg></a><b><i>🤠</g-emoji> About me :</i></b></h3>
-<li> 😇</g-emoji> <i>Founder Of CyberWarriorsClub</i></li>
-<li> 🤐</g-emoji> <i>Every Expert Was Once A Beginner</i></li>
-<li><i>👀 I’m interested in coding</i></li>
-<li><i>🌱 I’m currently learning ReactJS , Python</i></li>
-<li><i>💞️ I’m looking to collaborate on Web2 & DBMS development</i></li>
+
 
 
 <h3></path></svg></a><b><i><g-emoji class="g-emoji" alias="skull_and_crossbones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png">☠</g-emoji>Sample Works :</i></b></h3>
