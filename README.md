@@ -48,7 +48,6 @@
 | Other tools       | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F43C37?style=for-the-badge&logo=figma&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
-<hr>
 
 [![An image of @utkarshcse2026's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshcse2026)](https://holopin.io/@utkarshcse2026)
 
