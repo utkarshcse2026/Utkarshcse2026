@@ -48,6 +48,15 @@
 | Other tools       | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F43C37?style=for-the-badge&logo=figma&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ---
+<hr>
+
+[![utkarsh's Holopin board](https://holopin.io/api/user/board?user=utkarshcse2026)](https://holopin.io/@utkarshcse2026)
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+---
 
 <h3></g-emoji> Get in Touch 📡 :</i></b></h3>
 <a href="https://www.instagram.com/utkarshaggarwalofficial" rel="nofollow"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/instagram.png" style="max-width: 100%;"></a>
