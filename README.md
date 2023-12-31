@@ -12,6 +12,7 @@
 - 👨🏽‍💻 Part time Freelancer!
 - 🌱 I’m currently learning ReactJS , Python
 - 💞️ I’m looking to collaborate on Web2 & DBMS development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshcse2026&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshcse2026" /> </p>
 
  ---
 
