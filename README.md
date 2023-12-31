@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://Twitter.com/@utkarsh12236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyas55988713" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cyberspacecommunity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya-singh-0b4342226" height="30" width="40" /></a>
-<a href="https://instagram.com/singh_pragya_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_pragya_15" height="30" width="40" /></a>
+<a href="https://www.instagram.com/utkarshaggarwalofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_pragya_15" height="30" width="40" /></a>
 </p>
 
 
