@@ -7,6 +7,7 @@
 -😇Founder Of CyberWarriorsClub
 - 🔥 Building catchy designs for apps of the future
 - 🎯 On my way to become a Full-Stack developer!
+- ⚡ Fun fact I think I'm Hacked.....
 - 📝 Avid, enthusiastic writer in both creative and technical fields.
 - 🤤 Loves correcting documentations, Tailwind CSS... and videogames ofcourse!
 - 👨🏽‍💻 Part time Freelancer!
