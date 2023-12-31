@@ -50,7 +50,7 @@
 ---
 <hr>
 
-[![utkarsh's Holopin board](https://holopin.io/api/user/board?user=utkarshcse2026)](https://holopin.io/@utkarshcse2026)
+[![An image of @utkarshcse2026's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshcse2026)](https://holopin.io/@utkarshcse2026)
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
