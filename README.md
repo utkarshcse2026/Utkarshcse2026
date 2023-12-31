@@ -13,6 +13,7 @@
 - 👨🏽‍💻 Part time Freelancer!
 - 🌱 I’m currently learning ReactJS , Python
 - 💞️ I’m looking to collaborate on Web2 & DBMS development
+- 📧 utkarshaggarwalcse@gmail.com 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshcse2026&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshcse2026" /> </p>
 
  ---
@@ -60,9 +61,3 @@
 
 ---
 
-<h3></g-emoji> Get in Touch 📡 :</i></b></h3>
-<a href="https://www.instagram.com/utkarshaggarwalofficial" rel="nofollow"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/instagram.png" style="max-width: 100%;"></a>
-<li> 📧 utkarshaggarwalcse@gmail.com </li>
-</li></article>
-  </div>
-</div>
