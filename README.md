@@ -19,13 +19,15 @@
 
 ### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
-   <a href="https://linkedin.com/in/cyberspacecommunity/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>                                                                                                                           
-  <a href="https://Twitter.com/@utkarsh12236">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>                                                                                                                         
-  </div>
+  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://Twitter.com/@utkarsh12236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyas55988713" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyberspacecommunity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya-singh-0b4342226" height="30" width="40" /></a>
+<a href="https://instagram.com/singh_pragya_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_pragya_15" height="30" width="40" /></a>
+</p>
+
 
 ---
 # 📊 GitHub Stats:
