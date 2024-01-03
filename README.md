@@ -1,7 +1,7 @@
 <img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="370" height="300" align="right"/>
  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="left">
  <h1> Hello There </h1>
- <h2> I’m Utkarsh Aggarwal (JARVIS)</h2>
+ <h2> I’m Utkarsh Aggarwal </h2>
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
 -😇Founder Of CyberWarriorsClub
