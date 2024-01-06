@@ -9,7 +9,6 @@
 - 🎯 On my way to become a Full-Stack developer!
 - ⚡ Fun fact I think I'm Hacked.....
 - 📝 Avid, enthusiastic writer in both creative and technical fields.
-- 🤤 Loves correcting documentations, Tailwind CSS... and videogames ofcourse!
 - 👨🏽‍💻 Part time Freelancer!
 - 🌱 I’m currently learning ReactJS , Python
 - 💞️ I’m looking to collaborate on Web2 & DBMS development
