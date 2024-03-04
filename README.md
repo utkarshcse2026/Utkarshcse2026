@@ -16,8 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshcse2026&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshcse2026" /> </p>
 
  ---
-
-### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
+<img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
   
 
