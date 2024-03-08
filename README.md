@@ -1,4 +1,4 @@
-<img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="370" height="300" align="right"/>
+<img src="https://cdn.rcimg.net/kli4d/234f8333/84e0e96b122171c473f8271f2afec413.gif?width=700" width="370" height="300" align="right"/>
  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="left">
  <h1> Hi There </h1>
  <h2> I’m Utkarsh Aggarwal </h2>
