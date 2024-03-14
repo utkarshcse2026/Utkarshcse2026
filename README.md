@@ -5,6 +5,10 @@
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
 -😇Founder Of CyberWarriorsClub
+-😇CoFounder at CODE100
+-😇CIO at AgileYanam
+
+
 - 🔥 Building catchy designs for apps of the future
 - 🎯 On my way to become a Full-Stack developer!
 - ⚡ Fun fact I think I'm Hacked.....
