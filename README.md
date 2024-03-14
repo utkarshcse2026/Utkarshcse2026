@@ -4,9 +4,9 @@
  <h2> I’m Utkarsh Aggarwal </h2>
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
--😇Founder Of CyberWarriorsClub <br>
--😇CoFounder at CODE100 <br>
--😇CIO at AgileYanam <br>
+         😇Founder Of CyberWarriorsClub <br>
+         😇CoFounder at CODE100 <br>
+         😇CIO at AgileYanam <br>
 
 
 - 🔥 Building catchy designs for apps of the future
