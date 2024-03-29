@@ -7,7 +7,7 @@
           
 - 🔥 Building catchy designs for apps of the future
 - 🎯 On my way to become a Full-Stack developer!
-- ⚡ Fun fact I think I'm Hacked.....
+- ⚡ Fun fact I think I'm Hacked...
 - 📝 Avid, enthusiastic writer in both creative and technical fields.
 - 👨🏽‍💻 Part time Freelancer!
 - 🌱 I’m currently learning ReactJS , Python
