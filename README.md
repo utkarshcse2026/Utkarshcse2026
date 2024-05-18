@@ -5,13 +5,11 @@
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
           
-- 🔥 Building catchy designs for apps of the future
 - ⚡ Fun fact I think I'm Hacked......
-- 🎯 On my way to become a Full-Stack developer!
+- ⚡ Fun fact #2 Talk is Cheap Show me the Code
 - 👨🏽‍💻 Part time Freelancer!
 - 🌱 I’m currently learning ReactJS , Python
 - 💞️ I’m looking to collaborate on Web2 & DBMS development
-- 📝 Avid, enthusiastic writer in both creative and technical fields.
 - 📧 utkarshaggarwalcse@gmail.com 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshcse2026&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshcse2026" /> </p>
 
