@@ -18,14 +18,14 @@
 <div id="badges>
   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:    <img src="https://github.com/user-attachments/assets/dfb1f59f-71a4-4a50-a826-6507ba7ae475" width="50px align="left">
+</h3>
 <p align="left">
 <a href="https://Twitter.com/@utkarsh12236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyas55988713" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cyberspacecommunity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya-singh-0b4342226" height="30" width="40" /></a>
 <a href="https://www.instagram.com/utkarshaggarwalofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_pragya_15" height="30" width="40" /></a>
 </p>
 
-![image](https://github.com/user-attachments/assets/dfb1f59f-71a4-4a50-a826-6507ba7ae475)
 
 ---
 # 📊 GitHub Stats:
