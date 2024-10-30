@@ -56,4 +56,4 @@
 
 
 ---
-<iframe src="https://api.badgr.io/public/assertions/i8gHWX6cRhCKKdIyHNZXhw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=utkarshaggarwalcse%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
+![image](https://github.com/user-attachments/assets/dfb1f59f-71a4-4a50-a826-6507ba7ae475)
