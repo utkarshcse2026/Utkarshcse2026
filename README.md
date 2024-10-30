@@ -52,7 +52,7 @@
 
 ---
 [![An image of @utkarshcse2026's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshcse2026)](https://holopin.io/@utkarshcse2026)
-https://api.badgr.io/public/assertions/i8gHWX6cRhCKKdIyHNZXhw
+(https://api.badgr.io/public/assertions/i8gHWX6cRhCKKdIyHNZXhw)
 
 
 ---
