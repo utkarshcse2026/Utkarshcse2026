@@ -25,7 +25,8 @@
 <a href="https://www.instagram.com/utkarshaggarwalofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_pragya_15" height="30" width="40" /></a>
 </p>
 
-
+<p align="right"> ![image](https://github.com/user-attachments/assets/dfb1f59f-71a4-4a50-a826-6507ba7ae475)
+</p>
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=utkarshcse2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -56,4 +57,3 @@
 
 
 ---
-![image](https://github.com/user-attachments/assets/dfb1f59f-71a4-4a50-a826-6507ba7ae475)
