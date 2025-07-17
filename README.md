@@ -1,60 +1,239 @@
-<img src="https://cdn.rcimg.net/kli4d/234f8333/84e0e96b122171c473f8271f2afec413.gif?width=700" width="370" height="300" align="right"/>
- <h1> Hey   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="left">
-<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> </h1>
- <h2> I’m Utkarsh Aggarwal </h2>
+# 🛡️ Utkarsh Aggarwal | Cybersecurity Expert & Full-Stack Developer
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert+%7C+Ministry+of+Defence;Full-Stack+Developer+%7C+SIH'23+Winner;LLM+Trainer+%40+ScaleLabs+%7C+Security+Researcher;Building+CyberWarriorsClub+%7C+ISRO+Finalist;Ex-Amroha+Police+Cyber+Intern" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarshcse2026&label=Profile%20views&color=00ff41&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/utkarshcse2026?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Location-Ghaziabad%2C%20UP%2C%20India-blue" alt="Location" />
+</div>
+
+---
+
+## 🎯 Professional Overview
+
+<img align="right" alt="Cybersecurity" width="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
+### 🏛️ **Current Role**
+**Cybersecurity Intern** at **Ministry of Defence (Indian Ordnance Factory)**  
+*Protecting national digital infrastructure and defense systems*
+
+### 🎓 **Professional Experience**
+- 🔐 **Ex-Cybersecurity Intern** @ Amroha Police Department
+- 🤖 **LLM Trainer** @ ScaleLabs
+- 🏆 **SIH'23 Winner** (Smart India Hackathon)
+- 🚀 **ISRO Finalist** (Indian Space Research Organisation)
+- 📊 **Security Researcher** specializing in threat analysis
+- 🌐 **Building CyberWarriorsClub** - Cybersecurity community platform
+
+```typescript
+const utkarshAggarwal = {
+    title: "Cybersecurity Expert & Full-Stack Developer",
+    currentRole: "Intern @ Ministry of Defence",
+    location: "Ghaziabad, Uttar Pradesh, India",
+    
+    expertise: {
+        cybersecurity: ["Threat Analysis", "Vulnerability Assessment", "Digital Forensics"],
+        development: ["Full-Stack Web Development", "Security Applications", "AI/ML Integration"],
+        specializations: ["Government Security Systems", "Defense Tech", "LLM Training"]
+    },
+    
+    achievements: [
+        "🏆 SIH'23 Winner - Smart India Hackathon",
+        "🚀 ISRO Finalist - Space Technology Competition",
+        "🛡️ Ministry of Defence Cybersecurity Intern",
+        "👮‍♂️ Ex-Amroha Police Cyber Crime Division",
+        "🤖 LLM Trainer @ ScaleLabs",
+        "📡 5,100+ LinkedIn Followers"
+    ],
+    
+    currentProject: "Building CyberWarriorsClub - Cybersecurity Community Platform",
+    openToWork: ["Cybersecurity Roles", "Full-Stack Development", "Security Research"],
+    remoteWork: true
+};
+```
+
+---
+
+## 🏆 Professional Achievements
+
+<div align="center">
   
-### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
-          
-- ⚡ Fun fact I think I'm Hacked......
-- ⚡ Fun fact #2 Talk is Cheap Show me the Code
-- 👨🏽‍💻 Part time Freelancer!
-- 🌱 I’m currently learning ReactJS , Python
-- 💞️ I’m looking to collaborate on Web2 & DBMS development
-- 📧 utkarshaggarwalcse@gmail.com 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshcse2026&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshcse2026" /> </p>
+| 🏅 **Achievement** | 🏢 **Organization** | 📅 **Year** |
+|-------------------|-------------------|-------------|
+| Cybersecurity Intern | Ministry of Defence | 2024 |
+| SIH'23 Winner | Government of India | 2023 |
+| ISRO Finalist | Indian Space Research Organisation | 2024 |
+| Cyber Crime Intern | Amroha Police Department | 2023 |
+| LLM Trainer | ScaleLabs | 2024 |
 
- ---
-<img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
-<div id="badges>
-  
-
-<h3 align="left">Connect with me:    
-</h3>
-<p align="left">
-<a href="https://Twitter.com/@utkarsh12236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyas55988713" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cyberspacecommunity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya-singh-0b4342226" height="30" width="40" /></a>
-<a href="https://www.instagram.com/utkarshaggarwalofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="singh_pragya_15" height="30" width="40" /></a>
-</p>
-
+</div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utkarshcse2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=utkarshcse2026&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshcse2026&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----                                                                                                       
+## 🔐 Cybersecurity Expertise
 
-### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">Tools of My Trade:                                             
-| Category           | Tools|
-| ------------------ | --------------------------------------|
-| Languages          |![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)                                                                                 ![Python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Frameworks         | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)|
-| Databases          | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-947800?style=for-the-badge&logo=firebase&logoColor=)
-| Cloud Platforms |  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)|
-| Hosting/Deployments   | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) |
-| Version Control    | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)|
-| Payments   | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) |
-| CMS & Headless CMS   |  ![WordPress](https://img.shields.io/badge/Wordpress-008CDD?style=for-the-badge&logo=wordpress&logoColor=white)
-| Other tools       | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F43C37?style=for-the-badge&logo=figma&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+### 🛡️ **Core Competencies**
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FF00?style=for-the-badge&logo=hackaday&logoColor=black)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-0066CC?style=for-the-badge&logo=forensics&logoColor=white)
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-FF6600?style=for-the-badge&logo=shield&logoColor=white)
+
+### 🔍 **Security Tools & Frameworks**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ---
-<a href="https://podcasters.spotify.com/pod/show/cyber-warriors" target="blank">My Podcast (Conspiracy Theory DARKWEB Related content)</a>
+
+## 💻 Technical Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Web Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### **Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-[![An image of @utkarshcse2026's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utkarshcse2026)](https://holopin.io/@utkarshcse2026)
 
+## 🌐 Connect With Me
 
+<div align="center">
+  <a href="https://linkedin.com/in/cyberspacecommunity/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - 5,100+ Followers" />
+  </a>
+  <a href="https://Twitter.com/@utkarsh12236" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/utkarshaggarwalofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://podcasters.spotify.com/pod/show/cyber-warriors" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Cyber Warriors Podcast" />
+  </a>
+  <a href="mailto:utkarshaggarwalcse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
-![image](https://github.com/user-attachments/assets/390ffb61-3af8-498c-801d-2553f994a6e2)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshcse2026&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshcse2026&theme=radical&hide_border=true&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshcse2026&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarshcse2026&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎙️ Cyber Warriors Podcast
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎙️_Cyber_Warriors_Podcast-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Podcast"/>
+</div>
+
+**Exploring Cybersecurity, Dark Web, and Digital Mysteries**  
+*Host & Creator* | Discussing cutting-edge security topics, conspiracy theories, and digital forensics
+
+---
+
+## 🚀 Current Projects
+
+### 🛡️ **CyberWarriorsClub**
+Building a comprehensive cybersecurity community platform for security professionals and enthusiasts.
+
+### 🔐 **Defense Security Research**
+Contributing to national cybersecurity initiatives at the Ministry of Defence.
+
+### 🤖 **AI-Powered Security Tools**
+Developing machine learning models for threat detection and analysis.
+
+---
+
+## 📈 Professional Network
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn_Followers-5%2C100+-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Followers"/>
+  <img src="https://img.shields.io/badge/LinkedIn_Connections-500+-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connections"/>
+</div>
+
+---
+
+## 🎯 Open To Work
+
+```yaml
+Seeking Opportunities In:
+  - Cybersecurity Roles (Security Analyst, Penetration Tester)
+  - Full-Stack Development (React, Node.js, Python)
+  - Security Research Positions
+  - Government/Defense Technology Projects
+  - AI/ML Security Applications
+
+Work Preferences:
+  - Remote Work: ✅ Available
+  - Location: Ghaziabad, UP, India
+  - Experience: Government Security Clearance
+  - Specialization: Defense & Critical Infrastructure Security
+```
+
+---
+
+## 🌟 Badges & Certifications
+
+<div align="center">
+  <a href="https://holopin.io/@utkarshcse2026">
+    <img src="https://holopin.me/utkarshcse2026" alt="Holopin Badges"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🛡️%20Securing%20the%20Digital%20Future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
+
+<div align="center">
+  <i>⭐️ "In cybersecurity, the only constant is change. Stay vigilant, stay secure." - Utkarsh Aggarwal</i>
+</div>
+
+---
+
+<div align="center">
+  <i>🔐 From <a href="https://github.com/utkarshcse2026">utkarshcse2026</a> | Cybersecurity Expert & Full-Stack Developer</i>
+</div>
