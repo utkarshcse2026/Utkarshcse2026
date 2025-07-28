@@ -1,7 +1,7 @@
 # 🛡️ Utkarsh Aggarwal | Cybersecurity Expert & Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert+%7C+Ministry+of+Defence;Full-Stack+Developer+%7C+SIH'23+Winner;LLM+Trainer+%40+ScaleLabs+%7C+Security+Researcher;Building+CyberWarriorsClub+%7C+ISRO+Finalist;Ex-Amroha+Police+Cyber+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=IT+Intern+%7C+Ministry+of+Defence;Full-Stack+Developer+%7C+SIH'23+Winner;LLM+Trainer+%40+ScaleLabs+%7C+Security+Researcher;Building+CyberWarriorsClub+%7C+ISRO+Finalist;Ex-Amroha+Police+Cyber+Intern" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 <img align="right" alt="Cybersecurity" width="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 ### 🏛️ **Current Role**
-**Cybersecurity Intern** at **Ministry of Defence (Indian Ordnance Factory)**  
+**IT Intern** at **Ministry of Defence (Indian Ordnance Factory)**  
 *Protecting national digital infrastructure and defense systems*
 
 ### 🎓 **Professional Experience**
@@ -63,11 +63,11 @@ const utkarshAggarwal = {
   
 | 🏅 **Achievement** | 🏢 **Organization** | 📅 **Year** |
 |-------------------|-------------------|-------------|
-| Cybersecurity Intern | Ministry of Defence | 2024 |
-| SIH'23 Winner | Government of India | 2023 |
+| IT Intern | Ministry of Defence | 2025 |
+| Ex-Cyber Crime Intern | Amroha Police Department | 2025 |
+| LLM Trainer | ScaleLabs | 2024 - Jul 2025 |
 | ISRO Finalist | Indian Space Research Organisation | 2024 |
-| Cyber Crime Intern | Amroha Police Department | 2023 |
-| LLM Trainer | ScaleLabs | 2024 |
+| SIH'23 Winner | Government of India | 2023 |
 
 </div>
 
